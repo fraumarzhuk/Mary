@@ -109,7 +109,7 @@ body {
   text-align: center;
   margin-top: 70px;
   margin-bottom: 0;
-  padding-top: 30px;
+  padding-top: 40px;
   padding-bottom: 30px;
   background-color: #FFB4AC;
 }
@@ -173,9 +173,15 @@ hr {
 }
 .bottom-container p{
   color: #FFF5E4;
+  font-size: 14px;
 }
 .footer-link {
   font-size: 20px;
   padding-left: 10px;
   padding-right: 10px;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: #FF8787;
+
 }
